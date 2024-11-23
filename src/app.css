@@ -1,0 +1,33 @@
+.container{
+    width: 400px;
+    height: 500px;
+    background-color: gray;
+    padding-top: 15px;
+}
+#display{
+    width: 90%;
+    height: 60px;
+    background-color: white;
+    margin: auto;
+}
+
+.number{
+    width: 60px;
+    height: 60px;
+}
+.function{
+    width: 70px;
+    height: 60px;
+}
+#decimal, #clear, #backward, #equals{
+    width: 60px;
+    height: 60px;
+}
+#keys{
+    margin-top: 5px;
+}
+p{
+    float: right;
+    margin-right: 5px;
+    margin-top: 0;
+}
